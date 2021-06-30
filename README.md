@@ -11,8 +11,7 @@ The [competition](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-cl
 
 Contributors names and contact info
 
-ex. Zubair Rahman Tusar
-ex. [@zubairrahmantusar](https://www.kaggle.com/zubairrahmantusar)
+Zubair Rahman Tusar [@zubairrahmantusar](https://www.kaggle.com/zubairrahmantusar)
 
 ## Acknowledgments
 
