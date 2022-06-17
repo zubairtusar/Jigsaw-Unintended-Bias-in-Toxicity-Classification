@@ -1,7 +1,7 @@
 
 # ANALYSIS OF UNINTENDED BIAS IN TOXICITY
 
-This project uses multiple cleaning techniques to clean the text data which fed to a logistic regression model to predict toxicity of public comments in the online platform.
+This project uses multiple cleaning techniques to clean the text data which fed to a logistic regression model and an LSTM (Separate runs) to predict toxicity of public comments in the online platform.
 
 ## Description
 
@@ -9,13 +9,13 @@ The [competition](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-cl
 
 ## Authors
 
-Contributors names and contact info
+<!-- Contributors names and contact info -->
 
 Zubair Rahman Tusar [@zubairrahmantusar](https://www.kaggle.com/zubairrahmantusar)
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
+<!-- Inspiration, code snippets, etc. -->
 * [Exploratory Analysis](https://www.kaggle.com/code/benjaminschlup/toxic-comment-classification)
 * [Cleaning Process](https://www.kaggle.com/uysimty/simple-toxicity-classification)
 * [Text to Matrix](https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial)
